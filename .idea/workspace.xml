@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="eop-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="ab411ef5-d0bb-4aac-b7b2-c02b91be399d" name="Default" comment="完善了商品登录业务" />
+    <ignored path="$PROJECT_DIR$/eop-util/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eop-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="plan_history_list.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_history_list.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="include_title_head.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_title_head.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="include_menu_item.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_menu_item.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>password.update.fail</find>
+      <find>cn.mldn.action.UserAction.password.update.action</find>
+      <find>password.update.action</find>
+      <find>小李同学</find>
+      <find>mid</find>
+      <find>field list</find>
+      <find>field</find>
+      <find>emp.ename</find>
+      <find>资源列表</find>
+      <find>Action</find>
+      <find>编辑</find>
+      <find>getAllCount</find>
+      <find>String.valueOf(flag)</find>
+      <find>alert1Div</find>
+      <find>msg</find>
+      <find>login</find>
+      <find>15</find>
+      <find>my.plan.list.page</find>
+      <find>add</find>
+      <find>总人数</find>
+      <find>data.empList[i].eid</find>
+      <find>supply_apply_list</find>
+      <find>mldn.supply</find>
+      <find>title</find>
+      <find>System</find>
+      <find>supply_details_list.page</find>
+      <find>supply_details_list.action</find>
+      <find>resource.list.action</find>
+      <find>dept</find>
+      <find>System.</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.</replace>
+      <replace>/</replace>
+      <replace>pwd</replace>
+      <replace>&quot;flag&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eop" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_add.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/login.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/jquery/Message_zh_CN.js" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/js/login.js" />
+        <option value="$PROJECT_DIR$/eop-web/target/eop/pages/plugins/split_page_bar_plugin.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/resources/cn/mldn/resource/Messages.properties" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/IPlanDetailsDAO.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/IMyPlanService.java" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/dbc/DatabaseConnection.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/UserAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/split_page_bar_plugin.jsp" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/SplitPageUtil.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/MyPlanAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/js/common/date.js" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/schedule/schedule_list.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/admin/schedule/schedule_list_modal.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/schedule/schedule_list.js" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/IPlanDAO.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/PlanDAOImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/MyPlanServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/PlanAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/IPlanService.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_apply_add.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/PlanServiceImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/ISupplyService.java" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/servlet/ServletObjectUtil.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/supply/supply_goods_add.js" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/vo/Resource.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/SupplyDAOImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_goods_add.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/LoginAction.java" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/RandomCode.java" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/servlet/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/ResourceDAOImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/ResourceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/DeptAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/EmpServiceImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_menu_item.jsp" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/action/AbstractAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/EmpAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_details_list.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/SupplyAction.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/SupplyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/resources/cn/mldn/resource/Pages.properties" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/resource/Pages.properties" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/ResourceAction.java" />
+        <option value="$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/bean/ScannerPackageUtil.java" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_history_list.jsp" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/plan/plan_details_list.js" />
+        <option value="$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_title_head.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="eop" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="251" />
+    <option name="y" value="26" />
+    <option name="width" value="1400" />
+    <option name="height" value="992" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eop" type="462c0819:PsiDirectoryNode" />
+              <item name="eop-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.mldn" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\eop\eop-util\src\main\java\cn\mldn\util\bean" />
+      <recent name="D:\JavaProject\eop\eop-web\src\main" />
+      <recent name="D:\JavaProject\eop\eop-web\src\main\java\cn\mldn\dao\impl" />
+      <recent name="D:\JavaProject\eop\eop-web\src\main\java\cn\mldn\service\impl" />
+      <recent name="D:\JavaProject\eop\eop-web\src\main\java\cn\mldn\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\eop\eop-web\src\main\webapp\pages\back" />
+      <recent name="D:\JavaProject\eop\eop-web\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.7" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/eop/login_pre.action" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Xms1G -Xmx1G -Dfile.encoding=UTF-8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="eop-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/eop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_eop_4" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55368" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="eop-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\wang\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="UPDATE_LOCK_ON_DEMAND" value="true" />
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab411ef5-d0bb-4aac-b7b2-c02b91be399d" name="Default" comment="" />
+      <created>1526447856117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526447856117</updated>
+      <workItem from="1526447860710" duration="520000" />
+      <workItem from="1526449137330" duration="491000" />
+      <workItem from="1526462098614" duration="34719000" />
+      <workItem from="1526531119168" duration="112583000" />
+      <workItem from="1526795215878" duration="113409000" />
+      <workItem from="1527035575052" duration="2892000" />
+      <workItem from="1527038576841" duration="37610000" />
+      <workItem from="1527121824625" duration="17652000" />
+      <workItem from="1527231951012" duration="982000" />
+      <workItem from="1527348467583" duration="149000" />
+      <workItem from="1527348625745" duration="242000" />
+      <workItem from="1527348902781" duration="525000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1526517026360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526517026361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交了plan列表，增加了异步删除">
+      <created>1526554328516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526554328516</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交了plan列表，增加了异步删除">
+      <created>1526554892566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526554892566</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完善了plan列表，增加了plan详情">
+      <created>1526566784073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526566784073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完善了plan详情，创建了empDAO实现">
+      <created>1526575368342</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526575368342</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完善了片段，更新了planDAO方法">
+      <created>1526644734401</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1526644734401</updated>
+    </task>
+    <task id="LOCAL-00007" summary="更新数据库ip地址">
+      <created>1526654303505</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1526654303505</updated>
+    </task>
+    <task id="LOCAL-00008" summary="完善了任务细节，基本模块实现完毕">
+      <created>1526750017827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526750017827</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改了细节bug">
+      <created>1526814866621</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1526814866621</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改了细节bug">
+      <created>1526833316517</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1526833316517</updated>
+    </task>
+    <task id="LOCAL-00011" summary="修改了细节bug">
+      <created>1526885407639</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1526885407639</updated>
+    </task>
+    <task id="LOCAL-00012">
+      <created>1526887023878</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1526887023878</updated>
+    </task>
+    <task id="LOCAL-00013">
+      <created>1526888319009</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1526888319009</updated>
+    </task>
+    <task id="LOCAL-00014" summary="实现了登录拦截业务">
+      <created>1526913873056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1526913873056</updated>
+    </task>
+    <task id="LOCAL-00015">
+      <created>1526917906002</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1526917906002</updated>
+    </task>
+    <task id="LOCAL-00016">
+      <created>1526968948251</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1526968948251</updated>
+    </task>
+    <task id="LOCAL-00017">
+      <created>1526973659271</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1526973659271</updated>
+    </task>
+    <task id="LOCAL-00018">
+      <created>1526974445192</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1526974445192</updated>
+    </task>
+    <task id="LOCAL-00019">
+      <created>1526975652162</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1526975652162</updated>
+    </task>
+    <task id="LOCAL-00020">
+      <created>1526976369838</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1526976369838</updated>
+    </task>
+    <task id="LOCAL-00021">
+      <created>1526977858632</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1526977858632</updated>
+    </task>
+    <task id="LOCAL-00022">
+      <created>1526978125177</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1526978125177</updated>
+    </task>
+    <task id="LOCAL-00023">
+      <created>1526979639069</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1526979639069</updated>
+    </task>
+    <task id="LOCAL-00024">
+      <created>1527005994705</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1527005994705</updated>
+    </task>
+    <task id="LOCAL-00025" summary="完善了plan细节，完善了登录细节">
+      <created>1527064788477</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1527064788477</updated>
+    </task>
+    <task id="LOCAL-00026" summary="完善了商品登录业务">
+      <created>1527123848422</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1527123848422</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="321774000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32992035" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32992035" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50429183" side_tool="true" weight="0.3265074" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32992035" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.14967811" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49785408" weight="0.4516496" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.258248" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.46302617" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.152897" />
+      <window_info id="Web" order="6" sideWeight="0.50096714" side_tool="true" weight="0.18669528" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3299356" />
+      <window_info id="Structure" order="1" sideWeight="0.50666666" side_tool="true" weight="0.22800429" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49570817" weight="0.41069397" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946353" weight="0.31171787" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992035" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32992035" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32992035" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50214595" side_tool="true" weight="0.25142208" />
+      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.49946353" weight="0.32992035" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49554366" visible="true" weight="0.21834764" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" weight="0.32992035" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49785408" weight="0.4516496" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.08154506" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" sideWeight="0.50096714" side_tool="true" weight="0.18669528" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.50445634" side_tool="true" weight="0.2333691" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32992035" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4967811" visible="true" weight="0.34243459" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交了plan列表，增加了异步删除" />
+    <MESSAGE value="完善了plan列表，增加了plan详情" />
+    <MESSAGE value="完善了plan详情，创建了empDAO实现" />
+    <MESSAGE value="完善了片段，更新了planDAO方法" />
+    <MESSAGE value="更新数据库ip地址" />
+    <MESSAGE value="完善了任务细节，基本模块实现完毕" />
+    <MESSAGE value="修改了细节bug" />
+    <MESSAGE value="实现了登录拦截业务" />
+    <MESSAGE value="完善了plan细节，完善了登录细节" />
+    <MESSAGE value="完善了商品登录业务" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善了商品登录业务" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/DeptAction.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="323" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="ResourceUtil.getPage(&quot;cn.mldn.action.LoginAction.login.action&quot;)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>ResourceUtil.getPage(&quot;cn.mldn.action.LoginAction.login.action&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_menu_item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/bean/ScannerPackageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="34" column="41" lean-forward="true" selection-start-line="34" selection-start-column="41" selection-end-line="34" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/PlanDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="229" column="33" lean-forward="true" selection-start-line="229" selection-start-column="33" selection-end-line="229" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_details_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="94" column="77" lean-forward="true" selection-start-line="94" selection-start-column="77" selection-end-line="94" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/jquery/Message_zh_CN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/supply/supply_goods_add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-245">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/supply/supply_apply_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-288" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/vo/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="104" column="5" lean-forward="true" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/ISupplyDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_apply_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="44" column="133" selection-start-line="44" selection-start-column="133" selection-end-line="44" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/SplitPageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="32" column="24" lean-forward="true" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="57" column="68" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/SupplyDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="104" selection-start-line="50" selection-start-column="104" selection-end-line="50" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/feiq/Recv Files/ScannerPackageUtil.java" />
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/RandomCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_apply_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/DeptDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/servlet/ServletObjectUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="140" lean-forward="true" selection-start-line="21" selection-start-column="140" selection-end-line="21" selection-end-column="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/EmpDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/DeptAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="67" column="30" selection-start-line="67" selection-start-column="21" selection-end-line="67" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/action/AbstractAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="94" column="16" selection-start-line="94" selection-start-column="16" selection-end-line="94" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/EmpAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="42" column="32" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/IEmpService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/EmpServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/ISupplyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="65" column="24" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/service/proxy/ServiceProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="979">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_goods_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="72" column="76" selection-start-line="72" selection-start-column="76" selection-end-line="72" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/supply/supply_details_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="42" column="81" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/servlet/ModelAndView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/ActionInvokeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/web/ParameterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="302" column="26" selection-start-line="302" selection-start-column="16" selection-end-line="302" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/SupplyAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="90" column="55" selection-start-line="90" selection-start-column="55" selection-end-line="90" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/SupplyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/resources/cn/mldn/resource/Pages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/resource/Pages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="49" column="89" selection-start-line="49" selection-start-column="89" selection-end-line="49" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/action/ResourceAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/IResourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/service/impl/ResourceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="26" column="56" selection-start-line="26" selection-start-column="56" selection-end-line="26" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/dao/IDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/java/cn/mldn/dao/impl/ResourceDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/js/pages/back/admin/plan/plan_details_list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2328">
+          <caret line="156" column="50" selection-start-line="156" selection-start-column="50" selection-end-line="156" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/back/admin/plan/plan_history_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_title_head.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-util/src/main/java/cn/mldn/util/bean/ScannerPackageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eop-web/src/main/webapp/pages/plugins/back/include_menu_item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>eop-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>eop-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

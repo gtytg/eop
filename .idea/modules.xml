@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eop.iml" filepath="$PROJECT_DIR$/eop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eop-util/eop-util.iml" filepath="$PROJECT_DIR$/eop-util/eop-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eop-web/eop-web.iml" filepath="$PROJECT_DIR$/eop-web/eop-web.iml" />
+    </modules>
+  </component>
+</project>

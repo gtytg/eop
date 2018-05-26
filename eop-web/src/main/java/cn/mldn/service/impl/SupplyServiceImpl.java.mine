@@ -1,0 +1,73 @@
+package cn.mldn.service.impl;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+import cn.mldn.dao.IResourceDAO;
+import cn.mldn.dao.ISupplyDAO;
+import cn.mldn.service.ISupplyService;
+import cn.mldn.util.service.abs.AbstractService;
+import cn.mldn.util.web.annotation.Autowired;
+import cn.mldn.util.web.annotation.Service;
+import cn.mldn.vo.Resource;
+import cn.mldn.vo.Supply;
+
+@Service
+public class SupplyServiceImpl extends AbstractService implements ISupplyService {
+    @Autowired
+    private ISupplyDAO supplyDAO;
+    @Autowired
+    private IResourceDAO resourceDAO;
+
+    @Override
+    public boolean add(Supply sup) throws Exception {
+        return this.supplyDAO.doCreate(sup);
+    }
+
+    @Override
+    public boolean edit(Supply sup) throws Exception {
+        return false;
+    }
+
+    @Override
+    public boolean remove(Set<Long> resids) throws Exception {
+        return false;
+    }
+
+    @Override
+    public List<Supply> supplyList(String eid) throws Exception {
+        return this.supplyDAO.suppyList(eid);
+    }
+
+    @Override
+    // todo 根据eid重新查询分页
+    public Map<String, Object> supplyEidList(Long currentPage, Integer lineSize
+            , String column, String keyWord,String eid)
+            throws Exception {
+        Map<String, Object> map = new HashMap<>();
+        if (super.isSearch(column, keyWord)) {
+            map.put("allSupplys", this.supplyDAO.findSplit(currentPage, lineSize, column, keyWord));
+            map.put("allRecorders", this.supplyDAO.getAllCount(column, keyWord));
+        } else {
+            map.put("allSupplys", this.supplyDAO.findSplit(currentPage, lineSize));
+            map.put("allRecorders", this.supplyDAO.getAllCount());
+        }
+        return map;
+    }
+
+    @Override
+    public Map<String, Object> allList(String eid) throws Exception {
+        Map<String, Object> map = new HashMap<String, Object>();
+        map.put("allSupplys", this.supplyDAO.suppyList(eid));
+        map.put("allResources", this.resourceDAO.findAllBySupply(eid));
+        return map;
+    }
+
+	@Override
+	public List<Resource> applyList(Long spid) throws Exception {
+        List<Resource> apply = supplyDAO.findByApply(spid);
+        return apply;
+	}
+}
